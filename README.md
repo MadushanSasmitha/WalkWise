@@ -1,6 +1,7 @@
-📱 #WalkWise – Part A
+📱 WalkWise – Part A
 Mobile Application Design & Development – SE4041 (Part A)
 BSc (Hons) in Information Technology – 2025
+
 Overview
 
 WalkWise is an iPhone-exclusive health companion application designed to encourage users to build and maintain a consistent walking habit. Developed entirely with SwiftUI, the app incorporates several modern iOS technologies including HealthKit, Core ML, Core Data, and secure authentication frameworks. The primary goal of WalkWise is to help users monitor daily movement, understand their physical activity patterns, and plan personalized walking sessions through an elegant and intuitive interface. The application combines motivational design elements with intelligent analytics, making it both visually appealing and functionally robust.
