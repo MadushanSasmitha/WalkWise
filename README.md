@@ -1,4 +1,4 @@
-📱 WalkWise – Part A
+📱 #WalkWise – Part A
 Mobile Application Design & Development – SE4041 (Part A)
 BSc (Hons) in Information Technology – 2025
 Overview
